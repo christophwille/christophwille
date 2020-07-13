@@ -1,5 +1,10 @@
-<img src="https://github.com/christophwille/christophwille/raw/master/Resources/azure.svg" style="vertical-align:top; margin:4px">
-<img src="https://github.com/christophwille/christophwille/raw/master/Resources/csharp_dotnet.svg" style="vertical-align:top; margin:4px">
+<p align="left">
+  <img src="https://github.com/christophwille/christophwille/raw/master/Resources/azure.svg" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/christophwille/christophwille/raw/master/Resources/csharp_dotnet.svg" style="vertical-align:top; margin: 4px">
+  <img src="https://github.com/christophwille/christophwille/raw/master/Resources/kubernetes.svg" style="vertical-align:top; margin: 4px">
+  <img src="https://github.com/christophwille/christophwille/raw/master/Resources/visualstudio.svg" style="vertical-align:top; margin: 4px">
+  <img src="https://github.com/christophwille/christophwille/raw/master/Resources/visualstudio_code.svg" style="vertical-align:top; margin: 4px">
+</p>
 
 <!--
 **christophwille/christophwille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
